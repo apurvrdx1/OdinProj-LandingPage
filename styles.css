@@ -17,6 +17,7 @@ header {
     justify-content: space-between;
     padding: 16px;
     align-items: center;
+    padding-top: 24px;
 }
 
 .hero {
@@ -69,6 +70,7 @@ header {
 .hero-text {
     font-size: 18px;
     margin-top: 16px;
+    color: #E5E7EB;
 }
 
 .hero-img{
@@ -97,7 +99,7 @@ ul{
 li > a {
     text-decoration: none;
     color: #F9FAF8;
-    font-size: 12px;
+    font-size: 16px;
     
 }
 
@@ -203,10 +205,12 @@ li > a {
 
 .cta-text {
     font-weight: 700;
+    font-size: 20px;
 }
 
 .cta-subtext {
     font-weight: 300;
+    color: #E5E7EB;
 }
 
 .secondary-button {
@@ -227,7 +231,7 @@ footer {
     justify-content: center;
     align-items: center;
     color: #F9FAF8;
-    font-size:12px;
+    font-size:16px;
     background-color: #1F2937;
 
 }
