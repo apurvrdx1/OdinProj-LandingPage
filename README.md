@@ -6,4 +6,4 @@ odin project curriculum. It mainly focusses on basic HTML/CSS and flexbox.
 The target is to reach a close semblance of the image provided by the course. (included in the repo - FLex-proj-LandingPage-design)
 
 Started: Sat Oct 15 2022
-Finished: 
+Finished: Sat Oct 15 2022
